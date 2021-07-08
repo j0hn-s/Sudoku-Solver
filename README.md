@@ -1,4 +1,4 @@
-# Sudoku_Solver
+# Sudoku-Solver
 Simple, but well-implemented, backtracking algorithm that solves any sudoku passed through the solver function, using Python (in Notebook format for additional info and tests)
 
 A standard game of sudoku begins with an initial configuration which yields a series of possible and impossible moves, given the rules of the game (for official rules see: https://www.ultraboardgames.com/sudoku/game-rules.php). The provided uses a set of recursively defined functions to solve any inputted sudoku.
